@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+    
+}
+   
+.nav-item{
+    list-style: none;
+    
+}
+.nav-item a{
+    color: black;
+    text-align: justify;
+    list-style: none;
+    text-decoration: none;
+    justify-content: flex-end;
+    
+}
+button{
+    background: linear-gradient(90deg, #FF4E50 0%, #F9D423 100%);
+
+
+}
+.btn-custom1{
+    border-radius: 30px;
+
+}
+.btn-custom{
+    border-radius: 30px;
+
+}
+.color{
+    background: linear-gradient(90deg, rgba(238,238,238,1) 0%, rgba(236,209,27,1) 100%);
+}
+
